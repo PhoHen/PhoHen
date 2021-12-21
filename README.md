@@ -1,20 +1,20 @@
-Introduction of PhoHen website under PhoHen company:
+Giới thiệu website PhoHen trực thuộc công ti PhoHen:
 
 Website's name: 	PhoHen 
 
 Domain: 	https://phohen.com 	
 
+Slogan:    PhoHen - Trang chủ | PhoHen | Top kiến thức chọn lọc | Mới nhất, tốt nhất 
+
 Facebook: 	https://www.facebook.com/phohencom
 
-Gmail: 	phohenweb@gmail.com 
+Gmail: 	https://mail.google.com/mail/?view=cm&fs=1&to=info@phohen.com 
 
-Phone number: 	+6283173022678
+Phone number: 	+84356155802
 
 Twitter: 	https://twitter.com/phohencom
 
 Linkedin: 	https://www.linkedin.com/in/phohencom	
-
-Linked Intro: https://www.linkedin.com/posts/phohencom_introduction-of-phohen-website-under-phohen-activity-6876106731672469504-8cbS
 
 Pinterest: 	https://www.pinterest.com/phohencom 	
 
@@ -24,9 +24,10 @@ Github: 	https://github.com/PhoHen
 
 Google's website: https://pho-hen.business.site
 
+Linked Intro: https://www.linkedin.com/posts/phohencom_introduction-of-phohen-website-under-phohen-activity-6876106731672469504-8cbS
+
 Quora Introduce: https://www.quora.com/What-are-some-information-about-the-PhoHen-company/answer/Th%E1%BA%AFng-%C4%90%E1%BB%97-%C4%90%E1%BB%A9c-1?ch=10&oid=325607356&share=01a5640f&srid=hOxxyy&target_type=answer
 
 Youtube: https://www.youtube.com/channel/UCsJee9QvaM4P1pqvDZ-O18A
 
 Youtube introduce video : https://www.youtube.com/watch?v=bMbi4_Jfe-U
-

@@ -8,7 +8,7 @@ Domain: https://phohen.com
 
 Slogan: PhoHen - Trang chủ | PhoHen | Top kiến thức chọn lọc | Mới nhất, tốt nhất
 
-Gmail: https://mail.google.com/mail/?view=cm&fs=1&to=info@phohen.com
+Gmail: https://mail.google.com/mail/?view=cm&fs=1&to=newthangwebsite@gmail.com
 
 Phone number: +84123456789
 
